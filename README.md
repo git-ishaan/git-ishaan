@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishaan Pandey</h1>
-<h3 align="center">A Web Developer and a Coding enthusiast currently a final year student at Noida Institute of engineering and technology</h3>
+<h3 align="center">A Cross Platform Developer having experties in Full stack Developement in Web and Native applications</h3>
 
 - ⚡ Fun fact **I have Solutions of everything**
 
